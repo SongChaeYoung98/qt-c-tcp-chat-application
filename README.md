@@ -26,7 +26,7 @@ Qt C++ TCP Chat Application (Client & Server Full-Duplex)
 - A Successful Reconnection.
  
 # Project Structure
-...
+```
 MyChatClient.fldr
 ├── MyChatClient.pro : pro file, add 'QT += network'
 ├── MyChatClient.pro.user
@@ -46,7 +46,7 @@ MyChatServer.fldr
 .gitattributes
 LICENSE
 README.md
-...
+```
  
 # Library
  
