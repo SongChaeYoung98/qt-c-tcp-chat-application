@@ -42,16 +42,23 @@ LICENSE
 README.md
 ```
  
-# #include
-- <QtWidgets>
-- <QMessageBox>
-- <QTime>
-- <QTcpSocket>
-- <QTcpServer>
+# include
+- QtWidgets
+- QMessageBox
+- QTime
+- QTcpSocket
+- QTcpServer
  
 # Version
- - 
+ - Qt : 5.10.1
+ - qmake : 3.1
  
 # Language
+- C++
  
 # Development Environment
+- Qt Creater 4.5.1 (Community)
+- CPU : 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+- GPU : NVIDIA GeForce RTX 3050
+- OS : Window 11 Pro x64
+- RAM : 32 GB
